@@ -1,4 +1,4 @@
-package hw2;
+package Lock;
 
 /**
  * Padlockthat represents a model of a typical combination lock with a rotating
